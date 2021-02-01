@@ -1,18 +1,20 @@
-TRUST_SERVER = jabber.ru, qip.ru, xmpp.ru
+TRUST_SERVER = syriatalk.org, qip.ru, xmpp.ru
 
-DEFAULT_NICK = Cool+
+DEFAULT_NICK = AXoniC
 
-JABBER_ID = bot@oneteam.im
+JABBER_ID = _-_2_-_@syriatalk.org
 
-JABBER_PASS = 11
+JABBER_PASS = asd
 
-ENABLE_ICQ = 0
+ADMINS = king-syria@syriatalk.org
 
-ENABLE_CONSOLE_LOG = 0
+#ENABLE_ICQ = 0
+
+#ENABLE_CONSOLE_LOG = 0
 
 UIN = 638661055
 
-ICQ_PASS = zhopa
+#ICQ_PASS = zhopa
 
 ADMIN_PASSWORD = ggg
 
@@ -34,20 +36,20 @@ USE_SSL = 0
 
 ####### IRC Connection #########
 
-ENABLE_IRC = 0
+#ENABLE_IRC = 0
 
-IRC_SERV = irc.freenode.net
+#IRC_SERV = irc.freenode.net
 
-IRC_NICK = Mafia_Bot
+#IRC_NICK = Mafia_Bot
 
 #IRC_PASS = None
 
 ####### MAIL AGENT CONNECTION ######
 
-ENABLE_MRIM = 0
+#ENABLE_MRIM = 0
 
-EMAIL = your_bot@mail.ru
+#EMAIL = your_bot@mail.ru
 
-EMAIL_PASS = secret
+#EMAIL_PASS = secret
 
 
