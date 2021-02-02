@@ -1,12 +1,12 @@
-TRUST_SERVER = syriatalk.org, qip.ru, xmpp.ru
+TRUST_SERVER = qip.ru ، xmpp.ru
 
-DEFAULT_NICK = AXoniC
+DEFAULT_NICK = Cool+
 
-JABBER_ID = _-_2_-_@syriatalk.org
+JABBER_ID = boot@xmpp.ru
 
-JABBER_PASS = asd
+JABBER_PASS = ******
 
-ADMINS = king-syria@syriatalk.org
+ADMINS = admin@xmpp.ru
 
 #ENABLE_ICQ = 0
 
